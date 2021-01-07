@@ -5,7 +5,7 @@
 ## Install
 
 ```bash
-npm install react-irma
+npm install https://github.com/michielmayer/react-irma
 ```
 
 ## Usage
