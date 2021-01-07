@@ -1,6 +1,6 @@
 # React Irma
 
-> React version of [irma-frontend](https://github.com/privacybydesign/irma-frontend-packages/tree/master/irma-frontend) 
+> React version of [irma-frontend](https://github.com/privacybydesign/irma-frontend-packages/tree/master/irma-frontend).
 
 ## Install
 
@@ -42,7 +42,7 @@ function App() {
   }
   
   return (
-		<Irma options={options} onResult={onResult} onError={onError} />
+	<Irma options={options} onResult={onResult} onError={onError} />
   );
 }
 
